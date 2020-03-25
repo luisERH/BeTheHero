@@ -23,11 +23,6 @@ This project was developed with the following technologies:
 ## 💻 Project
 
 Be The Hero is a project that aims to connect people who are willing to help ONGs.
-
-<h1 align="center">
-    <img alt="Login-Page" title="Login-Page" src=".github/login-page.png" width="450px" />
-</h1>
-
 ## 🔖 Layout
 
 :construction: In progress.. :construction:
