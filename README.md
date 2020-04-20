@@ -42,4 +42,4 @@ This project is under the MIT license. See the [LICENSE](LICENSE.md) for details
 
 ---
 
-Made with ♥ by Daniel Obara :wave: [Get in touch!](https://www.linkedin.com/in/danielobara/)
+Made with ♥ by Luis Henriques :wave: [Get in touch!](https://www.linkedin.com/in/luis-eduardo-da-rocha-henriques-462714164/)
