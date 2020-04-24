@@ -1,5 +1,5 @@
 <h4 align="center"> 
-	:construction: 🚀 Semana OmniStack 11.0 In progress.. :construction:
+	🚀 Semana OmniStack 11.0
 <p align="center">
   <a href="#rocket-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -17,8 +17,8 @@ This project was developed with the following technologies:
 
 - [Node.js](https://nodejs.org/en/) 
 - [React](https://reactjs.org)
-- [React Native](https://facebook.github.io/react-native/) in coming :construction:
-- [Expo](https://expo.io/) in coming :construction:
+- [React Native](https://facebook.github.io/react-native/)
+- [Expo](https://expo.io/)
 
 ## 💻 Project
 
