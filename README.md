@@ -49,22 +49,22 @@ Você pode visualizar o layout do projeto no formato através [desse link](https
 ```sh
 git clone https://github.com/luisERH/BeTheHero.git
 cd BeTheHero
-npm install
+npm / yarn install
 ```
 #### Iniciando Backend
 ```sh
 cd backend
-npm start
+npm / yarn start
 ```
 #### Iniciando Frontend
 ```sh
 cd frontend
-npm start
+npm / yarn start
 ```
 #### Iniciando mobile
 ```sh
 cd mobile
-npm start
+npm / yarn start
 ```
 
 ## 🤔 Como contribuir
