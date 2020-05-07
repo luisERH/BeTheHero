@@ -1,44 +1,60 @@
-<h4 align="center"> 
-	🚀 Semana OmniStack 11.0
+<h1 align="center">
+    <img alt="DevRadar" title="#delicinha" src=".github/bethehero.svg" width="200px" />
+</h1>
+
+<h4 align="center">
+  🚀 Semana OmniStack 11.0
+</h4>
+
 <p align="center">
-  <a href="#rocket-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+ <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=7159c1&labelColor=000000" alt="PRs welcome!" />
+
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=7159c1&labelColor=000000">
+</p>
+
+<p align="center">
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
+  <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
 </p>
 
 <br>
 
+<p align="center">
+  <img alt="BeTheHero" src=".github/bethehero.png" width="100%">
+</p>
 
-## :rocket: Technologies
+## :rocket: Tecnologias
 
-This project was developed with the following technologies:
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Node.js](https://nodejs.org/en/) 
+- [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
 
-## 💻 Project
+## 💻 Projeto
 
-Be The Hero is a project that aims to connect people who are willing to help ONGs.
+O BeTheHero é um projeto que visa conectar pessoas que desejam fazer contribuições monetárias a ONG's (Organizações não governamentais) que precisam de ajuda.
+
 ## 🔖 Layout
 
-:construction: In progress.. :construction:
+Você pode visualizar o layout do projeto no formato através [desse link](https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=37%3A394). Lembrando que você irá precisar ter uma conta no [Figma](http://figma.com/).
 
-## 🤔 How to contribute
+## 🤔 Como contribuir
 
-- Make a fork;
-- Create a branck with your feature: `git checkout -b my-feature`;
-- Commit changes: `git commit -m 'feat: My new feature'`;
-- Make a push to your branch: `git push origin my-feature`.
+- Faça um fork desse repositório;
+- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
+- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
+- Faça push para a sua branch: `git push origin minha-feature`.
 
-After merging your receipt request to done, you can delete a branch from yours.
+Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
-## :memo: License
+## :memo: Licença
 
-This project is under the MIT license. See the [LICENSE](LICENSE.md) for details.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ---
 
