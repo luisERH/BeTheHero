@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="DevRadar" title="#delicinha" src=".github/bethehero.svg" width="200px" />
+    <img alt="BeTheHero" title="#delicinha" src="https://github.com/Rocketseat/semana-omnistack-11/blob/d737a096820c1b67332558597b0fdda7a3f4f612/.github/bethehero.svg" width="200px" />
 </h1>
 
 <h4 align="center">
@@ -23,7 +23,7 @@
 <br>
 
 <p align="center">
-  <img alt="BeTheHero" src=".github/bethehero.png" width="100%">
+  <img alt="BeTheHero" src="https://github.com/Rocketseat/semana-omnistack-11/blob/d737a096820c1b67332558597b0fdda7a3f4f612/.github/bethehero.png" width="100%">
 </p>
 
 ## :rocket: Tecnologias
