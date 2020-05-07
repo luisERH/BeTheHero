@@ -47,7 +47,7 @@ Você pode visualizar o layout do projeto no formato através [desse link](https
 
 #### Clonando o projeto
 ```sh
-git clone https://github.com/GabrielBarcelos1/BeTheHero.git
+git clone https://github.com/luisERH/BeTheHero.git
 cd BeTheHero
 npm install
 ```
